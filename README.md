@@ -2,7 +2,7 @@
 
 <!--Header-->
   <div>
-  <img align="left" alt="GIF" src="./hsd.jfif" />
+  <img align="left" alt="GIF" src="./pagdi.jpg" width="480" height="440"/>
   </div>
   
   <!--social media icon-->
@@ -73,8 +73,10 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
 <br>
+<p align="center">
+  <img src="https://github.com/amit17133129/amit17133129/blob/main/MySkills.gif?raw=true"/>
+</p>
 
-![Sachin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HarvinderSinghDiwan&theme=dracula)
 
 
 
@@ -117,14 +119,15 @@ but also gives you various benefits which can improve the quality of your life. 
 <!--Github Progess bar-->
 
 ## Quick Overview 📝
-
+ 
+ <p align="center"> 
+  
+  ![Harvinder's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HarvinderSinghDiwan&theme=dracula)
+</p>
 <img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HarvinderSinghDiwan&show_icons=true&include_all_commits=true&theme=radical" alt="Harvinder's github stats" />
 </p>
 <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarvinderSinghDiwan&theme=tokyonight" alt="HarvinderSinghDiwan"/>
  <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HarvinderSinghDiwan&layout=compact&theme=radical" alt="HarvinderSinghDiwan" />
- 
- <p align="center"> 
-
 
 <!--footer-->
 
@@ -149,11 +152,7 @@ but also gives you various benefits which can improve the quality of your life. 
 </a>  
 
 
-
 </div>  
-  
-
-<br/>  
 
    
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
