@@ -1,8 +1,8 @@
-## Aloha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <br>I am Harvinder Singh Diwan 👨‍🎓
+## Aloha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Harvinder Singh Diwan 👨‍🎓
 
 <!--Header-->
   <div>
-  <img align="left" alt="GIF" src="./pagdi.jpg" width="480" height="440"/>
+  <img align="left" alt="GIF" src="./-2147483648_-210396.webp" width="480" height="440"/>
   </div>
   
   <!--social media icon-->
@@ -122,17 +122,62 @@ but also gives you various benefits which can improve the quality of your life. 
  
  <p align="center"> 
   
+  
+  
+  [![GitHub Game of Life](https://github4life.herokuapp.com/HarvinderSinghDiwan.gif?z=6)](https://github4life.herokuapp.com/HarvinderSinghDiwan)
+  
   ![Harvinder's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HarvinderSinghDiwan&theme=dracula)
+  
+  
 </p>
 <img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HarvinderSinghDiwan&show_icons=true&include_all_commits=true&theme=radical" alt="Harvinder's github stats" />
 </p>
 <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarvinderSinghDiwan&theme=tokyonight" alt="HarvinderSinghDiwan"/>
  <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HarvinderSinghDiwan&layout=compact&theme=radical" alt="HarvinderSinghDiwan" />
+ 
+ 
+ <!--BLOG Process-->
+## Updates 🤓
+<b>
+<table><tr><td valign="top" width="33%">
+
+### [DEVOPS]
+<!-- recent_releases starts -->
+[DOCKER PROJECT](https://github.com/HarvinderSinghDiwan/DockerProject)
+
+[ARGOCD PRACTICALS](https://github.com/HarvinderSinghDiwan/ArgoCD)
+
+[CREATING CI/CD PIPELINE ](https://github.com/HarvinderSinghDiwan/cdPipeline)
+  
+</td><td valign="top" width="33%"> 
+
+ 
+### [Security]
+<!-- recent_releases starts -->
+ [CREATION OF MALICIOUS VIRUS](https://github.com/HarvinderSinghDiwan/MustaafVirus)
+  
+</td><td valign="top" width="33%">
+
+
+### [Machine Learning]
+<!-- blog starts -->
+[ADHOC PRACTICALS](https://github.com/HarvinderSinghDiwan/Adhoc_Workshop)
+
+</td><td valign="top" width="33%">
+
+### [Cloud]
+<!-- tils starts -->
+[KASM PRACTICALS](https://github.com/HarvinderSinghDiwan/kasm)
+  
+</td></tr></table> </b>
+ 
+ 
+ 
 
 <!--footer-->
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919084369325) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919862489995) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
 
 <div align="center">
@@ -153,6 +198,12 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 </div>  
+
+<br><br>
+<p align="center"> 
+ <b> Can you break this count?</b><br>
+  <img src="https://profile-counter.glitch.me/HarvinderSinghDiwan/count.svg" />
+</p>
 
    
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
